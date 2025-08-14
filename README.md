@@ -12,3 +12,7 @@ This app lets users add, view, and remove tasks from their daily task list — p
 💾 Stores tasks in a simple list (in-memory)
 
 🔁 Runs in a loop until the user exits
+
+## 📷 Screenshot
+![To-Do List App Screenshot](to-do-list app.PNG)
+
